@@ -1,12 +1,14 @@
+![#MadMango](https://github.com/akang65/akang65/blob/main/ba.jpg)
+
 ### Hi there 👋, my name is Akang65(Mad Mango)
 #### #MadMango
-![#MadMango](https://github.com/akang65/akang65/blob/main/ba.jpg)
+
 
 I am akang From India, I do projects mostly based on web developments  both back end and front end. I enjoy learning new languages and Frameworks especially .net and wordpress. I also enjoy wireframing, ui, ux and design in general.
 
 Skills: .NET / JS / HTML / CSS/C#
 
-- 🔭 I’m currently working on https://etherealtambola.live 
+- 🔭 I’m currently working on http://etherealtambola.live 
 - 📫 How to reach me: Akangtoshi@gmail.com 
 
 
