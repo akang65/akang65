@@ -14,7 +14,7 @@ Skills: .NET / JS / HTML / CSS/C#
 - ⚡ Fun fact: Corona Virus pandemic made me make this app hahaha https://play.google.com/store/apps/details?id=com.shop.YourChoice 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akang65)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Akang.Mchn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/akang-toshi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akang65)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Akang.Mchn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/5956625/akang-toshi)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akang65)](https://github.com/anuraghazra/github-readme-stats)
 
