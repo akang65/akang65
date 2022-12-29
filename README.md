@@ -9,6 +9,7 @@ I am akang From India, I do projects mostly based on web developments  both back
 Skills: .NET / JS / HTML / CSS/C#
 
 - 🔭 I’m currently working on http://etherealtambola.live (Mobile Tambola)
+- 🔭 I’m currently working on https://Mokokchungtimes.com (News Portal)
 - 📫 How to reach me: Akangtoshi@gmail.com 
 
 
