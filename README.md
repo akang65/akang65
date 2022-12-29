@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Akang65
 #### #MadMango
-![#MadMango](https://drive.google.com/file/d/1DRuS_QhUoEkzDa-kVd5bGndkX34rLZs-/view?usp=sharing)
+![#MadMango](https://github.com/akang65/akang65/blob/main/ba.jpg)
 
 I am akang From India, I do projects mostly based on web developments  both back end and front end. I enjoy learning new languages and Frameworks especially .net and wordpress. I also enjoy wireframing, ui, ux and design in general.
 
