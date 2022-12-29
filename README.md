@@ -16,6 +16,4 @@ Skills: .NET / JS / HTML / CSS/C#
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akang65&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akang65)  
-
 ![Profile views](https://gpvc.arturio.dev/Akang65)  
